@@ -1,3 +1,4 @@
+//expense tracker 5352501114
 const inputNama = document.getElementById('nama');
 const inputJumlah = document.getElementById('jumlah');
 const tambah = document.getElementById('tambah');
