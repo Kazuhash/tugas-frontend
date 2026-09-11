@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker 535250114</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Expense Tracker 535250114</h1>
+        <form id="form">
+            <input type="text" id="nama" placeholder="Nama Pengeluaran" required>
+            <input type="number" id="jumlah" placeholder="Jumlah Pengeluaran" required>
+            <button type="submit" id="tambah">Tambah Pengeluaran</button>
+        </form>
+        <div class="statistik">
+            <p> Jumlah Transaksi:<strong id ="jumlah-transaksi"> 0</strong></p>
+            <h3>Total: Rp <span id="total">0</span></h3>
+        </div>
+        <ul id="daftar-pengeluaran"></ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
