@@ -24,4 +24,4 @@ Jericho Steve Angdev - 535250114
  sekian penjelasan singkat dari saya.
 
  
- Link Web : http://127.0.0.1:5500/
+ Link Web : https://kazuhash.github.io/tugas-frontend/
